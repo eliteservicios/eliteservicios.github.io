@@ -25,15 +25,9 @@ Estamos a su disposición para cualquier tipo de evento como lo son:
 ```
 
 ### Contacto
-WhatsApp
-Celular y WhatsApp:
+- [Facebook: Elite Servicios MX ](https://www.facebook.com/mejoresmeseros)
+- [Instagram: Elite servicios en ](https://www.instagram.com/elite_servicios_mx)
+- [telefono y whatsapp: 81 2632 2947 ](https://wa.me/message/2QQS3CIKSEQTF1)
+- Escanea el codigo para el chat directo
+<br/>
 <img src="{{ site.baseurl }}/imagen2.jpeg" />
-- [81 2632 2947](https://wa.me/message/2QQS3CIKSEQTF1)
-
-
-¿Le gustan nuestros servicios? 
-- [Elite Servicios MX en Facebook](https://www.facebook.com/mejoresmeseros)
-- [Elite servicios en instagram](https://www.instagram.com/elite_servicios_mx)
-
-
-#### ¡Compartalo en sus redes sociales!
